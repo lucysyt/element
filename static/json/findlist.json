@@ -1,0 +1,7 @@
+[
+    {"id":"1","name":"意大利面","des":"浓浓黑松露野菌酱汁，融合牛肉，芝士...","xl":"75","price":"38","imgsrc":"/static/img/gg2.jpg"},
+    {"id":"2","name":"山西凉皮","des":"浓浓黑松露野菌酱汁，融合牛肉，芝士...","xl":"88","price":"42","imgsrc":"/static/img/gg2.jpg"},
+    {"id":"3","name":"川菜大全","des":"浓浓黑松露野菌酱汁，融合牛肉，芝士...","xl":"66","price":"68","imgsrc":"/static/img/gg2.jpg"},
+    {"id":"4","name":"烤羊肉","des":"浓浓黑松露野菌酱汁，融合牛肉，芝士...","xl":"55","price":"79","imgsrc":"/static/img/gg2.jpg"},
+    {"id":"5","name":"意大利披萨","des":"浓浓黑松露野菌酱汁，融合牛肉，芝士...","xl":"10","price":"48","imgsrc":"/static/img/gg2.jpg"}
+]
