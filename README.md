@@ -25,5 +25,10 @@ ajax使用的是axios
 
 稍后会放上demo演示
 ```
+![Alt text](https://github.com/lucysyt/element/blob/master/static/img/1.png)
+![Alt text](https://github.com/lucysyt/element/blob/master/static/img/2.png)
+![Alt text](https://github.com/lucysyt/element/blob/master/static/img/3.png)
+![Alt text](https://github.com/lucysyt/element/blob/master/static/img/4.png)
+
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
