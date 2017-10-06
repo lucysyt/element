@@ -1,6 +1,6 @@
-# vuepro
+# vuepro（模仿饿了吗app）
 
-> a little deskbook
+> vue的h5应用
 
 ## Build Setup
 
@@ -11,11 +11,19 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+直接运行npm run dev即可看到效果、
 
-# build for production and view the bundle analyzer report
-npm run build --report
+安装的时候，可能会碰到vue版本问题，此为没有打包的版本
+
+此应用使用的技术主要是vue
+并没有用jquery
+内部代码用的es6
+
+ajax使用的是axios
+
+运行时端口号为http://localhost:8090
+
+稍后会放上demo演示
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
